@@ -1,0 +1,7 @@
+{
+  "name": "dos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
